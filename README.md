@@ -65,7 +65,7 @@ Through coding examples, we learn practical applications of the Transformers lib
 
 ## Chatbot UI with Gradio
 
-Gradio allows us to create intuitive front-end interfaces for ML models. By building a chatbot UI, we learn how to make model interactions more user-friendly and accessible. This process demonstrates the integration of Gradio with the Transformers library, enhancing our understanding of deploying ML models.
+Gradio allows us to create intuitive front-end interfaces for ML models. By building a chatbot UI, we learn how to make model interactions more user-friendly and accessible. This process demonstrates the integration of Gradio with the Transformers library and enhancing our understanding of deploying ML models.
 
 ## Hugging Face Spaces
 
