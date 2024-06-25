@@ -9,16 +9,16 @@ OpenAI’s API enables interaction with Large Language Models (LLMs) like ChatGP
 ##  Getting Started (4 Steps)
 To use OpenAI's API, follow these steps:
 
-###  Make an Account
+####  Make an Account
 Sign up on the OpenAI API Overview page for a $5 API credit for the first three months. Existing ChatGPT users can log in.
 
-###  Add Payment Method
+####  Add Payment Method
 If the free credit expires, add a payment method under the "Billing" tab in your profile.
 
-###  Set Usage Limits
+####  Set Usage Limits
 Set soft and hard usage limits under the "Billing" tab to control your spending.
 
-###  Get API Secret Key
+####  Get API Secret Key
 Generate a secret key under "View API keys" to authenticate your API calls.
 
 ##  Example Code: Chat Completion API
