@@ -59,10 +59,6 @@ The pipeline() function abstracts various ML tasks into one line of code. It sim
 
 Hugging Face hosts a vast repository of pre-trained models (277,528 at the time of writing). These models are compatible with various ML frameworks beyond Transformers, making them valuable to a wide range of ML practitioners. By exploring and implementing different models, we learn how to tailor ML solutions to specific tasks and frameworks.
 
-## Installing 🤗Transformers (with Conda)
-
-To use Hugging Face's resources, we can follow a simple 2-step guide to set up the conda environment. This involves downloading the hf-env.yml file and creating a new conda environment based on it. Through this setup process, we learn the importance of creating and managing virtual environments for ML projects.
-
 ## Example Code: NLP with 🤗Transformers
 
 Through coding examples, we learn practical applications of the Transformers library, covering sentiment analysis, summarization, and conversational text generation. Engaging in these coding activities helps us understand the library's functionalities and their real-world applications.
