@@ -1,3 +1,26 @@
+# A Practical Introduction to LLMs: 3 Levels of Using LLMs in Practice
+
+## What is an LLM?
+LLM stands for Large Language Model, a recent AI innovation popularized by ChatGPT in December 2022. Unlike traditional chatbots, LLMs exhibit unique emergent properties like zero-shot learning due to their large number of parameters. These models can perform tasks without specific training, setting them apart from previous AI paradigms.
+
+## What Makes an LLM “Large”?
+LLMs have 10–100 billion parameters, leading to emergent properties like zero-shot learning, enabling them to perform tasks without explicit training. This makes them significantly different from smaller language models, as they display advanced capabilities when they reach a certain size.
+
+## How Do LLMs Work?
+LLMs are trained using word prediction. When models reach around 10 billion parameters, they exhibit emergent abilities like zero-shot learning, making them versatile and powerful. This training method is similar to smaller models, but the scale of LLMs enables advanced features and capabilities.
+
+## 3 Levels of Using LLMs
+
+### Level 1: Prompt Engineering
+Prompt engineering involves using LLMs out-of-the-box, either through user-friendly UIs like ChatGPT or directly via APIs for more customization. This method is accessible and economical but may lack advanced functionalities and scalability required for larger applications.
+
+### Level 2: Model Fine-Tuning
+Fine-tuning tweaks an existing LLM's parameters for specific tasks using high-quality labeled data, requiring more expertise and resources than prompt engineering. This approach allows for better optimization for particular use cases, providing improved performance over generic models.
+
+### Level 3: Build Your Own LLM
+Building an LLM from scratch involves creating custom training data and model parameters, demanding significant computational resources and expertise. This method offers ultimate flexibility and customization for specific applications but requires extensive time, budget, and technical skills.
+
+
 # API Overview
 
 ##  What’s an API?
