@@ -71,4 +71,22 @@ Gradio allows us to create intuitive front-end interfaces for ML models. By buil
 
 Hugging Face Spaces provide a platform for deploying ML apps with ease. By creating and configuring a new Space, we learn how to leverage Hugging Face's hosting capabilities for our ML applications. This step-by-step process empowers us to deploy our projects effectively using the Gradio SDK.
 
+# Prompt Engineering
+
+Prompt engineering involves programming language models (LLMs) with prompts to perform specific tasks. It is an empirical art that maximizes performance through creative, formatted prompts. LLMs are "tricked" into tasks by arranging prompts as fake documents. There are two levels: the easy way (intuitive, no-code) and the less easy way (programmatic, powerful). 
+
+## 7 Tricks for Prompt Engineering
+1. **Be Descriptive:** Provide detailed context to LLMs for better performance.
+2. **Give Examples:** Use existing examples to guide LLMs.
+3. **Use Structured Text:** Organize prompts for readability and better completions.
+4. **Chain of Thought:** Guide LLMs to think step-by-step for complex problems.
+5. **Chatbot Personas:** Prompt LLMs to take on specific personas for better understanding.
+6. **Flipped Approach:** Have LLMs ask questions to understand problems better.
+7. **Reflect, Review, and Refine:** Prompt LLMs to reflect on past responses for improvement.
+
+## Example Code: Automatic Grader with LangChain
+Here we learn how to use LangChain to build applications on top of large language models. We use LangChain to define chains that can perform tasks like grading automatically. The example demonstrates how to define prompts, run chains, and use output parsers for processing LLM responses.
+
+
+
 
