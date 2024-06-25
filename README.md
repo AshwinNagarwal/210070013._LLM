@@ -43,3 +43,36 @@ To use OpenAI's API, follow these steps:
 ##  Example Code: Chat Completion API
 Learn to use OpenAI's Python library for chat completion, adjusting parameters like max tokens, number of responses, and temperature to optimize model outputs. This involves setting up system messages and utilizing user and assistant roles for context-specific responses.
 
+# What is Hugging Face?
+
+Hugging Face is an AI company that has become a major hub for open-source machine learning (ML). Their platform offers three main resources: a repository of pre-trained ML models, a library of datasets for training models, and Spaces, a collection of open-source ML apps. These community-generated resources leverage the benefits of open-source, making powerful ML projects more accessible. The key element of Hugging Face is the Transformers library.
+
+## 🤗Transformers
+
+Transformers is a Python library that simplifies downloading and training state-of-the-art ML models. Initially for language models, it now includes models for computer vision, audio processing, and more. It integrates easily with Hugging Face's repositories and supports other ML frameworks like PyTorch and TensorFlow. This creates a versatile platform for ML models and apps.
+
+## Pipeline()
+
+The pipeline() function abstracts various ML tasks into one line of code. It simplifies complex processes like sentiment analysis, summarization, translation, and more. By coding with pipeline(), we learn how to efficiently implement and utilize these tasks in machine learning projects.
+
+## Models
+
+Hugging Face hosts a vast repository of pre-trained models (277,528 at the time of writing). These models are compatible with various ML frameworks beyond Transformers, making them valuable to a wide range of ML practitioners. By exploring and implementing different models, we learn how to tailor ML solutions to specific tasks and frameworks.
+
+## Installing 🤗Transformers (with Conda)
+
+To use Hugging Face's resources, we can follow a simple 2-step guide to set up the conda environment. This involves downloading the hf-env.yml file and creating a new conda environment based on it. Through this setup process, we learn the importance of creating and managing virtual environments for ML projects.
+
+## Example Code: NLP with 🤗Transformers
+
+Through coding examples, we learn practical applications of the Transformers library, covering sentiment analysis, summarization, and conversational text generation. Engaging in these coding activities helps us understand the library's functionalities and their real-world applications.
+
+## Chatbot UI with Gradio
+
+Gradio allows us to create intuitive front-end interfaces for ML models. By building a chatbot UI, we learn how to make model interactions more user-friendly and accessible. This process demonstrates the integration of Gradio with the Transformers library, enhancing our understanding of deploying ML models.
+
+## Hugging Face Spaces
+
+Hugging Face Spaces provide a platform for deploying ML apps with ease. By creating and configuring a new Space, we learn how to leverage Hugging Face's hosting capabilities for our ML applications. This step-by-step process empowers us to deploy our projects effectively using the Gradio SDK.
+
+
