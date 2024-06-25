@@ -1,4 +1,4 @@
-# A Practical Introduction to LLMs:
+# Introduction to LLMs:
 
 ## What is an LLM?
 LLM stands for Large Language Model, a recent AI innovation popularized by ChatGPT in December 2022. Unlike traditional chatbots, LLMs exhibit unique emergent properties like zero-shot learning due to their large number of parameters. These models can perform tasks without specific training, setting them apart from previous AI paradigms.
